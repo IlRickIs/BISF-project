@@ -2,6 +2,7 @@ images/
 data/
 config/
 models/
+test/
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,venv
 
